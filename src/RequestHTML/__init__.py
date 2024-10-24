@@ -1,1 +1,1 @@
-from .regex import Request
+from .requester import RequestAuto
